@@ -1,7 +1,7 @@
 
 NERF 🔫
 
-#Scoreboard
+# Scoreboard
 
 |         | Miss | Hit | Zebra | Wedged |
 |---------|------|-----|-------|--------|
