@@ -8,4 +8,4 @@ NERF 🔫
 | Billy   |      |     |       |        |
 | Chris   |      |     |       |        |
 | Geraint |      |     |       |        |
-| Greg    |      |     |       |        |
+| Greg    |  3   |  1  |       |        |
