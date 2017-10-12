@@ -2,6 +2,7 @@
 NERF 🔫
 
 #Scoreboard
+
 |         | Miss | Hit | Zebra | Wedged |
 |---------|------|-----|-------|--------|
 | Billy   |      |     |       |        |
